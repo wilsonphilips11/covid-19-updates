@@ -1,0 +1,28 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+main {
+    margin: 32px auto;
+    max-width: 800px;
+    width: 90%;
+}
+
+.number {
+    width: 40px;
+    height: 40px;
+}
+
+.responsive-chart {
+    position: relative;  
+    height: 50vh;
+    width: 60vw;
+}
+
+@media screen and (max-width: 768px) {
+    .responsive-chart {
+        width: 80vw;
+    }
+} 
