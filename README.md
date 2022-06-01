@@ -8,6 +8,6 @@ https://indonesia-covid-19.mathdro.id/api
 ## Demo
 <br>
 <p align="center">
-  <img src="docs/1.gif">
+  <img src="docs/1.gif" width="25%">>
 </p>
 <br>
